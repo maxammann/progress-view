@@ -42,8 +42,6 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "babel": "^6.23.0",
-    "babel-runtime": "^6.26.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
